@@ -1,0 +1,8 @@
+{
+  "name": "EduBridge - Smart Learning Management System",
+  "description": "A comprehensive LMS platform with role-based access for teachers and students. Features include assignment management, AI-powered content generation, and administrative controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
